@@ -1,1 +1,2 @@
 git add tracks the file
+this is another line to this text file
